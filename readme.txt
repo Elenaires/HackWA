@@ -1,2 +1,2 @@
 test file
-added new test
+Added new text and removed previous line
